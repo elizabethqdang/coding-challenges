@@ -1,0 +1,15 @@
+{
+  "name": "qawolf-take-home",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.18.0"
+  }
+}
